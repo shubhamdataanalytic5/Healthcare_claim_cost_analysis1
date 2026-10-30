@@ -1,0 +1,151 @@
+provider_npi,provider_type,specialty,nucc_taxonomy,state,network_status,group_id
+1571574052,Hospital/Facility,Critical Access Hospital,207P00000X,CA,In-Network,GRP6332
+1778483301,Ancillary,Home Health,207P00000X,GA,In-Network,GRP4198
+1974006077,Specialist,Orthopedic Surgery,207X00000X,FL,In-Network,GRP7963
+1168881145,Specialist,Orthopedic Surgery,207X00000X,TX,In-Network,GRP5188
+1168246159,PCP,Internal Medicine,207R00000X,CA,In-Network,GRP3761
+1337791138,PCP,Internal Medicine,207R00000X,CA,Out-of-Network,GRP4455
+1205377316,Specialist,Orthopedic Surgery,207X00000X,CA,In-Network,GRP5357
+1108115157,Hospital/Facility,General Acute Care Hospital,282N00000X,CA,In-Network,GRP6557
+1980712759,Hospital/Facility,Outpatient Clinic,207P00000X,MI,Out-of-Network,GRP9910
+1624202402,Specialist,Orthopedic Surgery,207X00000X,TX,In-Network,GRP4063
+1799205295,Hospital/Facility,General Acute Care Hospital,282N00000X,GA,In-Network,GRP2607
+1609526529,Specialist,Psychiatry,207P00000X,CA,In-Network,GRP9800
+1717546253,PCP,Family Medicine,207Q00000X,TX,In-Network,GRP2329
+1244186984,PCP,Family Medicine,207Q00000X,NC,Out-of-Network,GRP9133
+1235381502,Specialist,Cardiology,207RC0000X,CA,In-Network,GRP2279
+1540044947,Specialist,Pulmonology,207P00000X,TX,Out-of-Network,GRP4274
+1433937353,Specialist,Nephrology,207P00000X,GA,In-Network,GRP9981
+1856686341,PCP,Geriatrics,207P00000X,CA,In-Network,GRP2491
+1395983630,Specialist,Nephrology,207P00000X,CA,In-Network,GRP2439
+1273488618,Hospital/Facility,General Acute Care Hospital,282N00000X,MI,In-Network,GRP6482
+1872613201,PCP,Internal Medicine,207R00000X,FL,In-Network,GRP2711
+1109850785,Hospital/Facility,ASC,207P00000X,PA,Out-of-Network,GRP1219
+1660288235,Hospital/Facility,ASC,207P00000X,CA,In-Network,GRP7252
+1899127912,Specialist,Neurology,207P00000X,TX,In-Network,GRP9633
+1364429278,PCP,OB/GYN,207P00000X,FL,In-Network,GRP7834
+1910255109,Ancillary,DME Supplier,207P00000X,PA,In-Network,GRP9677
+1511044648,Specialist,Endocrinology,207P00000X,TX,In-Network,GRP5743
+1355166277,Specialist,Endocrinology,207P00000X,NC,In-Network,GRP6525
+1236418230,Ancillary,DME Supplier,207P00000X,OH,In-Network,GRP9843
+1624802371,Hospital/Facility,ASC,207P00000X,NY,Out-of-Network,GRP5532
+1964402759,Hospital/Facility,Outpatient Clinic,207P00000X,FL,In-Network,GRP1350
+1609138981,Hospital/Facility,Critical Access Hospital,207P00000X,PA,In-Network,GRP3149
+1968299309,PCP,Internal Medicine,207R00000X,IL,In-Network,GRP6586
+1780163051,Hospital/Facility,SNF,207P00000X,CA,In-Network,GRP8715
+1716521444,Specialist,Oncology,207P00000X,GA,In-Network,GRP6457
+1752470395,Ancillary,Home Health,207P00000X,FL,In-Network,GRP4650
+1935547131,Specialist,Pulmonology,207P00000X,NC,In-Network,GRP3890
+1872272835,PCP,Internal Medicine,207R00000X,MI,In-Network,GRP7148
+1245650222,Specialist,Gastroenterology,207P00000X,CA,In-Network,GRP9094
+1626436776,Hospital/Facility,General Acute Care Hospital,282N00000X,FL,Out-of-Network,GRP3502
+1514306773,Specialist,Endocrinology,207P00000X,NY,In-Network,GRP5975
+1891283887,Hospital/Facility,General Acute Care Hospital,282N00000X,NY,Out-of-Network,GRP4846
+1283743001,PCP,Family Medicine,207Q00000X,GA,In-Network,GRP3216
+1530904931,PCP,Internal Medicine,207R00000X,CA,In-Network,GRP4647
+1939033455,Specialist,Pulmonology,207P00000X,PA,In-Network,GRP1795
+1812060197,Specialist,Oncology,207P00000X,NC,Out-of-Network,GRP5771
+1410468316,Hospital/Facility,SNF,207P00000X,MI,In-Network,GRP1963
+1860435061,Ancillary,DME Supplier,207P00000X,CA,In-Network,GRP5266
+1268679390,Hospital/Facility,Critical Access Hospital,207P00000X,MI,In-Network,GRP9075
+1103747954,Specialist,Urology,207P00000X,CA,In-Network,GRP2311
+1556140803,Specialist,Cardiology,207RC0000X,NY,In-Network,GRP3252
+1450553056,Ancillary,Clinical Laboratory,291U00000X,TX,In-Network,GRP7488
+1213165847,Hospital/Facility,Critical Access Hospital,207P00000X,NY,In-Network,GRP9162
+1994661817,Hospital/Facility,SNF,207P00000X,CA,Out-of-Network,GRP9599
+1135158374,Specialist,Pulmonology,207P00000X,TX,In-Network,GRP2080
+1334916761,Hospital/Facility,ASC,207P00000X,TX,In-Network,GRP3151
+1366576336,PCP,Geriatrics,207P00000X,NC,In-Network,GRP9854
+1450094833,Hospital/Facility,Outpatient Clinic,207P00000X,NY,In-Network,GRP5549
+1700633438,Ancillary,DME Supplier,207P00000X,IL,In-Network,GRP8499
+1390307371,Ancillary,DME Supplier,207P00000X,PA,In-Network,GRP1129
+1749494482,PCP,Pediatrics,207P00000X,FL,In-Network,GRP2045
+1502838586,Hospital/Facility,ASC,207P00000X,CA,In-Network,GRP2838
+1806688928,PCP,Geriatrics,207P00000X,CA,In-Network,GRP1774
+1500037969,Specialist,Pulmonology,207P00000X,FL,In-Network,GRP9016
+1429015908,Hospital/Facility,General Acute Care Hospital,282N00000X,NC,Out-of-Network,GRP8230
+1717912431,Specialist,Oncology,207P00000X,TX,In-Network,GRP4512
+1518055405,Specialist,Urology,207P00000X,IL,In-Network,GRP1702
+1915531927,Hospital/Facility,Critical Access Hospital,207P00000X,GA,In-Network,GRP1955
+1564502315,Hospital/Facility,ASC,207P00000X,NC,In-Network,GRP3359
+1366426662,Specialist,Urology,207P00000X,TX,In-Network,GRP7542
+1125190055,Specialist,Nephrology,207P00000X,NC,In-Network,GRP8210
+1453283987,Hospital/Facility,Critical Access Hospital,207P00000X,NY,In-Network,GRP5853
+1148984206,Specialist,Psychiatry,207P00000X,NY,In-Network,GRP9167
+1132188260,PCP,Family Medicine,207Q00000X,OH,In-Network,GRP9352
+1434029575,Specialist,Endocrinology,207P00000X,TX,In-Network,GRP7908
+1361302520,Hospital/Facility,Critical Access Hospital,207P00000X,OH,In-Network,GRP1708
+1896447406,Specialist,Nephrology,207P00000X,PA,Out-of-Network,GRP9008
+1757138478,PCP,Pediatrics,207P00000X,OH,In-Network,GRP9174
+1590915516,Ancillary,Physical Therapy,225100000X,GA,Out-of-Network,GRP6038
+1199138277,Ancillary,Diagnostic Radiology,207P00000X,PA,Out-of-Network,GRP6392
+1865904917,Hospital/Facility,Outpatient Clinic,207P00000X,CA,In-Network,GRP8015
+1545347862,Hospital/Facility,SNF,207P00000X,TX,In-Network,GRP6330
+1486164553,Ancillary,DME Supplier,207P00000X,GA,In-Network,GRP4097
+1644128543,Specialist,Gastroenterology,207P00000X,PA,In-Network,GRP7272
+1247341320,Specialist,Urology,207P00000X,NC,Out-of-Network,GRP8066
+1645194539,Hospital/Facility,SNF,207P00000X,FL,In-Network,GRP2273
+1727809972,Ancillary,Home Health,207P00000X,NY,In-Network,GRP7116
+1550154147,Hospital/Facility,Outpatient Clinic,207P00000X,GA,In-Network,GRP2559
+1997536841,PCP,Family Medicine,207Q00000X,OH,Out-of-Network,GRP6172
+1186826716,Ancillary,Physical Therapy,225100000X,FL,In-Network,GRP1970
+1563980627,Hospital/Facility,Critical Access Hospital,207P00000X,CA,In-Network,GRP9929
+1845057593,Specialist,Orthopedic Surgery,207X00000X,NC,In-Network,GRP7010
+1561134315,Ancillary,DME Supplier,207P00000X,OH,In-Network,GRP5227
+1295371663,Hospital/Facility,Critical Access Hospital,207P00000X,FL,In-Network,GRP5534
+1606140917,Hospital/Facility,ASC,207P00000X,NY,In-Network,GRP6572
+1948810580,Ancillary,DME Supplier,207P00000X,TX,In-Network,GRP2121
+1500949740,PCP,Pediatrics,207P00000X,FL,In-Network,GRP5588
+1453936007,Hospital/Facility,ASC,207P00000X,CA,In-Network,GRP7442
+1139906830,Specialist,Endocrinology,207P00000X,TX,Out-of-Network,GRP3344
+1702692193,Ancillary,Physical Therapy,225100000X,GA,In-Network,GRP5314
+1767011137,Ancillary,DME Supplier,207P00000X,FL,In-Network,GRP3972
+1689639685,Hospital/Facility,SNF,207P00000X,GA,In-Network,GRP2448
+1696843572,Hospital/Facility,Critical Access Hospital,207P00000X,FL,Out-of-Network,GRP9808
+1691062876,Hospital/Facility,SNF,207P00000X,CA,In-Network,GRP6334
+1114982472,Specialist,Orthopedic Surgery,207X00000X,FL,In-Network,GRP4528
+1990090423,Specialist,Orthopedic Surgery,207X00000X,CA,In-Network,GRP4043
+1284035364,PCP,Pediatrics,207P00000X,IL,In-Network,GRP7113
+1845900543,Hospital/Facility,ASC,207P00000X,NC,In-Network,GRP1973
+1585582070,Hospital/Facility,Outpatient Clinic,207P00000X,OH,In-Network,GRP6103
+1118885473,Hospital/Facility,ASC,207P00000X,OH,In-Network,GRP3072
+1991459367,Specialist,Neurology,207P00000X,GA,Out-of-Network,GRP9007
+1575695214,Hospital/Facility,SNF,207P00000X,OH,In-Network,GRP8057
+1847081578,Specialist,Urology,207P00000X,NY,Out-of-Network,GRP7818
+1800011727,Ancillary,Clinical Laboratory,291U00000X,IL,Out-of-Network,GRP2312
+1224179551,Ancillary,Physical Therapy,225100000X,FL,In-Network,GRP1725
+1631954542,Specialist,Oncology,207P00000X,CA,In-Network,GRP5125
+1266606767,Hospital/Facility,ASC,207P00000X,IL,In-Network,GRP4198
+1622771872,PCP,Pediatrics,207P00000X,IL,In-Network,GRP7517
+1687650653,PCP,Internal Medicine,207R00000X,TX,In-Network,GRP7406
+1389336600,Hospital/Facility,Critical Access Hospital,207P00000X,MI,In-Network,GRP4574
+1946680931,Hospital/Facility,Critical Access Hospital,207P00000X,CA,Out-of-Network,GRP2452
+1313212303,PCP,Family Medicine,207Q00000X,IL,In-Network,GRP3917
+1542828721,Specialist,Orthopedic Surgery,207X00000X,MI,In-Network,GRP5530
+1463205530,Specialist,Nephrology,207P00000X,TX,In-Network,GRP3281
+1531398223,PCP,OB/GYN,207P00000X,NC,In-Network,GRP3859
+1795618275,Specialist,Pulmonology,207P00000X,GA,In-Network,GRP3166
+1809014947,Specialist,Urology,207P00000X,IL,In-Network,GRP1582
+1817234602,Ancillary,Clinical Laboratory,291U00000X,MI,In-Network,GRP6410
+1422747896,Specialist,Urology,207P00000X,PA,In-Network,GRP9973
+1124394415,PCP,Pediatrics,207P00000X,NY,In-Network,GRP9566
+1840431511,PCP,Geriatrics,207P00000X,PA,Out-of-Network,GRP9363
+1372918899,PCP,Family Medicine,207Q00000X,FL,In-Network,GRP6929
+1520687146,Hospital/Facility,ASC,207P00000X,TX,In-Network,GRP7726
+1713934949,Specialist,Neurology,207P00000X,CA,In-Network,GRP1577
+1790497490,PCP,OB/GYN,207P00000X,FL,In-Network,GRP2809
+1438368327,Ancillary,Home Health,207P00000X,OH,In-Network,GRP7354
+1475984649,Hospital/Facility,SNF,207P00000X,NC,In-Network,GRP9895
+1219817751,PCP,OB/GYN,207P00000X,MI,In-Network,GRP9173
+1745114564,Specialist,Endocrinology,207P00000X,TX,In-Network,GRP6676
+1528335731,Hospital/Facility,Critical Access Hospital,207P00000X,NY,In-Network,GRP1980
+1193493783,Hospital/Facility,Critical Access Hospital,207P00000X,NY,Out-of-Network,GRP9693
+1227362142,Ancillary,DME Supplier,207P00000X,CA,In-Network,GRP3861
+1749327647,PCP,Geriatrics,207P00000X,NY,In-Network,GRP1383
+1198133277,Hospital/Facility,SNF,207P00000X,FL,In-Network,GRP7913
+1569105090,PCP,Geriatrics,207P00000X,NC,In-Network,GRP2561
+1728018911,Specialist,Nephrology,207P00000X,TX,In-Network,GRP3714
+1242201429,Hospital/Facility,General Acute Care Hospital,282N00000X,GA,In-Network,GRP7094
+1366286000,Hospital/Facility,SNF,207P00000X,NC,In-Network,GRP9687
+1239316214,PCP,Internal Medicine,207R00000X,IL,In-Network,GRP9163
+1891849440,Specialist,Oncology,207P00000X,TX,In-Network,GRP2472
